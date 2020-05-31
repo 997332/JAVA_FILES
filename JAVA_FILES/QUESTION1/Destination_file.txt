@@ -1,0 +1,1 @@
+Another source file whose contents have to be copied
